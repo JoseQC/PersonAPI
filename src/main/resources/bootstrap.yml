@@ -2,9 +2,9 @@ spring:
   application:
     name: person
   
-  cloud:
-    config:
-      uri: http://localhost:8080
+#  cloud:
+#    config:
+#      uri: http://localhost:8080
 
       
 server:
