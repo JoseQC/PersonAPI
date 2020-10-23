@@ -1,0 +1,5 @@
+com\everis\treining\controller\PersonController.class
+com\everis\treining\repository\PersonRepository.class
+com\everis\treining\service\PersonService.class
+com\everis\treining\entity\Person.class
+com\everis\treining\PersonsApiApplication.class

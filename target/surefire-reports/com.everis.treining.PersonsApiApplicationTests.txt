@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.everis.treining.PersonsApiApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 12.644 s - in com.everis.treining.PersonsApiApplicationTests
